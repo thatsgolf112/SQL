@@ -1,0 +1,1 @@
+Create database sql_cousr;
